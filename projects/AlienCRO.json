@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "AlienCRO", 
+        "category": ["DEX", "NFT", "LAUNCHPAD", "TOOLS"],
+        "logo": "https://alien.exchange/favicon.png",
+        "description": "AlienCRO is a futuristic DeFi All-in-one ecosystem built on Cronos network for crypto investing.",
+        "link": "https://alien.exchange/",
+        "twitter": "https://twitter.com/aliencro51"
+    }
+}
